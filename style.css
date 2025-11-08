@@ -14,7 +14,8 @@
 
 @media(max-width:450px){
   .botoes{
-    font-size: 23%;
+    font-size: 24%;
+      width:102%;
   }
   .apres>.nome{
     font-size: 300%;
@@ -183,5 +184,6 @@ body{
  margin-top: 15%;
  color: var(--bgbotoes);
 }
+
 
 
