@@ -10,7 +10,7 @@ body{
     background-color: var(--bgcolor);
 }
 
-@media(max-width:450px){
+@media(max-width:500px){
     body>.apres>.titulo{
       font-size: 300%;
     }
@@ -189,3 +189,4 @@ body{
    margin-top: 15%;
    color: var(--bgbotoes);
   }
+
