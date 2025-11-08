@@ -12,7 +12,7 @@
   }
 }
 
-@media(max-width:450px){
+@media(max-width:500px){
   .botoes{
     font-size: 25%;
   }
@@ -183,3 +183,4 @@ body{
  margin-top: 15%;
  color: var(--bgbotoes);
 }
+
