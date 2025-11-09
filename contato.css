@@ -40,7 +40,7 @@ body>.formulario{
 }
 }
 
-@media(max-width:450px){
+@media(max-width:550px){
     .apres>.titulo{
     font-size: 270%;
     margin-top: 5%;
@@ -392,5 +392,6 @@ font-size: 80%;
   width: 30%;
   height: 3vh;
 }
+
 
 
